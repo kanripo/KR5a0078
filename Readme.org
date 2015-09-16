@@ -1,20 +1,3 @@
-#+TITLE: 太上三洞神咒 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:35:41.683171
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0078_000.txt][太上三洞神咒 0]]
- - [[file:KR5a0078_001.txt][太上三洞神咒 1]]
- - [[file:KR5a0078_002.txt][太上三洞神咒 2]]
- - [[file:KR5a0078_003.txt][太上三洞神咒 3]]
- - [[file:KR5a0078_004.txt][太上三洞神咒 4]]
- - [[file:KR5a0078_005.txt][太上三洞神咒 5]]
- - [[file:KR5a0078_006.txt][太上三洞神咒 6]]
- - [[file:KR5a0078_007.txt][太上三洞神咒 7]]
- - [[file:KR5a0078_008.txt][太上三洞神咒 8]]
- - [[file:KR5a0078_009.txt][太上三洞神咒 9]]
- - [[file:KR5a0078_010.txt][太上三洞神咒 10]]
- - [[file:KR5a0078_011.txt][太上三洞神咒 11]]
- - [[file:KR5a0078_012.txt][太上三洞神咒 12]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
