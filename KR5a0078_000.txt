@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:41.364180
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上三洞神咒
-#+PROPERTY: DZID  DZ0078
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—48 一十二卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:47
+#+PROPERTY:  LASTPB <PB KR5a0078_SJB_012-020135b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶<md:KR5a0078_HFL_012-021b>¶¶¶¶¶¶¶¶¶¶¶¶
+
